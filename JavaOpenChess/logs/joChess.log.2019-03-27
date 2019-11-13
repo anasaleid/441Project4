@@ -1,0 +1,299 @@
+2019-03-27 00:10:39 Settings [DEBUG] Locale: en
+2019-03-27 00:10:39 Settings [DEBUG] Locale: en
+2019-03-27 00:10:43 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 00:10:46 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 00:11:16 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 00:15:59 Settings [DEBUG] Locale: en
+2019-03-27 00:15:59 Settings [DEBUG] Locale: en
+2019-03-27 00:16:05 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 00:16:05 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 00:21:18 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 00:23:47 Settings [DEBUG] Locale: en
+2019-03-27 00:23:47 Settings [DEBUG] Locale: en
+2019-03-27 00:23:53 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 00:23:53 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 00:23:53 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 00:26:40 Settings [DEBUG] Locale: en
+2019-03-27 00:26:40 Settings [DEBUG] Locale: en
+2019-03-27 00:29:22 Settings [DEBUG] Locale: en
+2019-03-27 00:29:22 Settings [DEBUG] Locale: en
+2019-03-27 00:29:22 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 00:29:33 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 00:29:33 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 00:29:33 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 00:48:34 Settings [DEBUG] Locale: en
+2019-03-27 00:48:34 Settings [DEBUG] Locale: en
+2019-03-27 00:48:34 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 00:55:42 Settings [DEBUG] Locale: en
+2019-03-27 00:55:42 Settings [DEBUG] Locale: en
+2019-03-27 00:55:42 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 00:55:42 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 00:56:05 Settings [DEBUG] Locale: en
+2019-03-27 00:56:05 Settings [DEBUG] Locale: en
+2019-03-27 00:56:05 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 00:56:05 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 00:56:29 Settings [DEBUG] Locale: en
+2019-03-27 00:56:29 Settings [DEBUG] Locale: en
+2019-03-27 00:56:29 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 00:57:16 Settings [DEBUG] Locale: en
+2019-03-27 00:57:16 Settings [DEBUG] Locale: en
+2019-03-27 00:58:55 Settings [DEBUG] Locale: en
+2019-03-27 00:58:55 Settings [DEBUG] Locale: en
+2019-03-27 00:58:55 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 01:06:13 Settings [DEBUG] Locale: en
+2019-03-27 01:06:13 Settings [DEBUG] Locale: en
+2019-03-27 01:06:13 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 01:06:13 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 01:08:38 Settings [DEBUG] Locale: en
+2019-03-27 01:08:38 Settings [DEBUG] Locale: en
+2019-03-27 01:08:38 Chessboard [DEBUG] active_x: 2 active_y: 7
+2019-03-27 01:08:38 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:16:18 Settings [DEBUG] Locale: en
+2019-03-27 14:16:18 Settings [DEBUG] Locale: en
+2019-03-27 14:16:25 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 14:16:25 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:16:25 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:17:01 Settings [DEBUG] Locale: en
+2019-03-27 14:17:01 Settings [DEBUG] Locale: en
+2019-03-27 14:17:04 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 14:17:04 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:17:04 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:17:21 Settings [DEBUG] Locale: en
+2019-03-27 14:17:21 Settings [DEBUG] Locale: en
+2019-03-27 14:17:21 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:17:28 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:17:28 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 14:17:28 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:17:49 Settings [DEBUG] Locale: en
+2019-03-27 14:17:49 Settings [DEBUG] Locale: en
+2019-03-27 14:17:49 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:18:18 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:18:18 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:19:48 Settings [DEBUG] Locale: en
+2019-03-27 14:19:48 Settings [DEBUG] Locale: en
+2019-03-27 14:19:48 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:11 Settings [DEBUG] Locale: en
+2019-03-27 14:20:11 Settings [DEBUG] Locale: en
+2019-03-27 14:20:11 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:13 Settings [DEBUG] Locale: en
+2019-03-27 14:20:13 Settings [DEBUG] Locale: en
+2019-03-27 14:20:14 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:14 Settings [DEBUG] Locale: en
+2019-03-27 14:20:14 Settings [DEBUG] Locale: en
+2019-03-27 14:20:14 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:15 Settings [DEBUG] Locale: en
+2019-03-27 14:20:15 Settings [DEBUG] Locale: en
+2019-03-27 14:20:15 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:16 Settings [DEBUG] Locale: en
+2019-03-27 14:20:16 Settings [DEBUG] Locale: en
+2019-03-27 14:20:16 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:16 Settings [DEBUG] Locale: en
+2019-03-27 14:20:16 Settings [DEBUG] Locale: en
+2019-03-27 14:20:16 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:17 Settings [DEBUG] Locale: en
+2019-03-27 14:20:17 Settings [DEBUG] Locale: en
+2019-03-27 14:20:17 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:20:27 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:20:27 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:21:10 Settings [DEBUG] Locale: en
+2019-03-27 14:21:10 Settings [DEBUG] Locale: en
+2019-03-27 14:21:10 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:21:16 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:21:16 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:24:03 Settings [DEBUG] Locale: en
+2019-03-27 14:24:03 Settings [DEBUG] Locale: en
+2019-03-27 14:24:03 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:24:18 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:24:18 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:27:10 Settings [DEBUG] Locale: en
+2019-03-27 14:27:10 Settings [DEBUG] Locale: en
+2019-03-27 14:27:10 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:27:17 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:27:17 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:27:43 Settings [DEBUG] Locale: en
+2019-03-27 14:27:43 Settings [DEBUG] Locale: en
+2019-03-27 14:27:48 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:28:17 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:28:17 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:28:58 Settings [DEBUG] Locale: en
+2019-03-27 14:28:58 Settings [DEBUG] Locale: en
+2019-03-27 14:28:58 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:29:03 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:29:03 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:34:26 Settings [DEBUG] Locale: en
+2019-03-27 14:34:26 Settings [DEBUG] Locale: en
+2019-03-27 14:34:26 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:35:07 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:35:14 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:39:01 Settings [DEBUG] Locale: en
+2019-03-27 14:39:01 Settings [DEBUG] Locale: en
+2019-03-27 14:39:01 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:39:22 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:41:35 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:42:30 Settings [DEBUG] Locale: en
+2019-03-27 14:42:30 Settings [DEBUG] Locale: en
+2019-03-27 14:42:30 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:42:39 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:42:50 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:42:57 Settings [DEBUG] Locale: en
+2019-03-27 14:42:57 Settings [DEBUG] Locale: en
+2019-03-27 14:42:58 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:43:07 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:44:22 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:44:22 Settings [DEBUG] Locale: en
+2019-03-27 14:44:23 Settings [DEBUG] Locale: en
+2019-03-27 14:44:23 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:45:04 Settings [DEBUG] Locale: en
+2019-03-27 14:45:04 Settings [DEBUG] Locale: en
+2019-03-27 14:45:25 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:46:05 Settings [DEBUG] Locale: en
+2019-03-27 14:46:05 Settings [DEBUG] Locale: en
+2019-03-27 14:46:05 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:46:10 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 14:46:10 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 14:46:10 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 14:48:01 Settings [DEBUG] Locale: en
+2019-03-27 14:48:01 Settings [DEBUG] Locale: en
+2019-03-27 14:48:01 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 14:48:01 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 14:48:01 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:48:24 Game [DEBUG] Quitting Game
+2019-03-27 14:53:35 Settings [DEBUG] Locale: en
+2019-03-27 14:53:35 Settings [DEBUG] Locale: en
+2019-03-27 14:53:35 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 14:53:35 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 14:53:35 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:55:15 Chessboard [DEBUG] active_x: 2 active_y: 7
+2019-03-27 14:55:15 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 14:55:15 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 14:55:24 Chessboard [DEBUG] active_x: 2 active_y: 5
+2019-03-27 17:27:41 Settings [DEBUG] Locale: en
+2019-03-27 17:27:41 Settings [DEBUG] Locale: en
+2019-03-27 17:27:49 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:27:49 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:28:21 Settings [DEBUG] Locale: en
+2019-03-27 17:28:21 Settings [DEBUG] Locale: en
+2019-03-27 17:28:24 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:28:24 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:40:12 Settings [DEBUG] Locale: en
+2019-03-27 17:40:12 Settings [DEBUG] Locale: en
+2019-03-27 17:40:15 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:40:15 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:40:32 Settings [DEBUG] Locale: en
+2019-03-27 17:40:32 Settings [DEBUG] Locale: en
+2019-03-27 17:40:35 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:40:35 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:40:49 Settings [DEBUG] Locale: en
+2019-03-27 17:40:49 Settings [DEBUG] Locale: en
+2019-03-27 17:41:04 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:41:04 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:41:08 Settings [DEBUG] Locale: en
+2019-03-27 17:41:08 Settings [DEBUG] Locale: en
+2019-03-27 17:41:10 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:41:36 Settings [DEBUG] Locale: en
+2019-03-27 17:41:36 Settings [DEBUG] Locale: en
+2019-03-27 17:41:36 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:41:48 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-27 17:41:48 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 17:41:48 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:41:59 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-27 17:41:59 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-27 17:41:59 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-27 17:42:11 Settings [DEBUG] Locale: en
+2019-03-27 17:42:11 Settings [DEBUG] Locale: en
+2019-03-27 17:42:18 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 17:42:18 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 17:42:18 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:09:15 Settings [DEBUG] Locale: en
+2019-03-27 18:09:15 Settings [DEBUG] Locale: en
+2019-03-27 18:09:25 Settings [DEBUG] Locale: en
+2019-03-27 18:09:25 Settings [DEBUG] Locale: en
+2019-03-27 18:09:30 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 18:09:30 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:09:30 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:09:38 Chessboard [DEBUG] active_x: 3 active_y: 7
+2019-03-27 18:09:38 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:09:38 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:09:47 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-27 18:09:47 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:09:47 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:10:30 Settings [DEBUG] Locale: en
+2019-03-27 18:10:30 Settings [DEBUG] Locale: en
+2019-03-27 18:10:36 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 18:10:36 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:10:36 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:53:51 Settings [DEBUG] Locale: en
+2019-03-27 18:53:51 Settings [DEBUG] Locale: en
+2019-03-27 18:53:58 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 18:53:58 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:53:58 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:54:06 Chessboard [DEBUG] active_x: 2 active_y: 7
+2019-03-27 18:54:39 Settings [DEBUG] Locale: en
+2019-03-27 18:54:39 Settings [DEBUG] Locale: en
+2019-03-27 18:54:47 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 18:54:47 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:54:47 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 18:55:04 Chessboard [DEBUG] active_x: 1 active_y: 8
+2019-03-27 18:55:04 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 18:55:04 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 19:25:31 Settings [DEBUG] Locale: en
+2019-03-27 19:25:31 Settings [DEBUG] Locale: en
+2019-03-27 19:25:38 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 19:25:38 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 19:25:38 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 19:25:45 Chessboard [DEBUG] active_x: 8 active_y: 7
+2019-03-27 19:25:45 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 19:25:45 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-27 19:30:05 Settings [DEBUG] Locale: en
+2019-03-27 19:30:05 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Game [DEBUG] next move, active player: , color: WHITE, type: LOCAL_USER
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:30 Settings [DEBUG] Locale: en
+2019-03-27 20:15:58 Settings [DEBUG] Locale: en
+2019-03-27 20:15:58 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Game [DEBUG] next move, active player: , color: WHITE, type: LOCAL_USER
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:16:47 Settings [DEBUG] Locale: en
+2019-03-27 20:29:01 Settings [DEBUG] Locale: en
+2019-03-27 20:29:01 Settings [DEBUG] Locale: en
+2019-03-27 20:30:02 Settings [DEBUG] Locale: en
+2019-03-27 20:30:02 Settings [DEBUG] Locale: en
+2019-03-27 20:30:06 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-27 20:30:06 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-27 20:30:06 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER

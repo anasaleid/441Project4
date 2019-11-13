@@ -1,0 +1,39 @@
+2019-03-28 16:18:34 Settings [DEBUG] Locale: en
+2019-03-28 16:18:34 Settings [DEBUG] Locale: en
+2019-03-28 16:24:12 Settings [DEBUG] Locale: en
+2019-03-28 16:24:12 Settings [DEBUG] Locale: en
+2019-03-28 16:24:16 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-28 16:24:16 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-28 16:24:16 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-28 16:29:48 Settings [DEBUG] Locale: en
+2019-03-28 16:29:48 Settings [DEBUG] Locale: en
+2019-03-28 16:29:56 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-28 16:29:56 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-28 16:29:56 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-28 16:30:10 Settings [DEBUG] Locale: en
+2019-03-28 16:30:10 Settings [DEBUG] Locale: en
+2019-03-28 16:34:48 Settings [DEBUG] Locale: en
+2019-03-28 16:34:48 Settings [DEBUG] Locale: en
+2019-03-28 16:47:28 Settings [DEBUG] Locale: en
+2019-03-28 16:47:28 Settings [DEBUG] Locale: en
+2019-03-28 17:52:16 Settings [DEBUG] Locale: en
+2019-03-28 17:52:16 Settings [DEBUG] Locale: en
+2019-03-28 17:52:41 Settings [DEBUG] Locale: en
+2019-03-28 17:52:41 Settings [DEBUG] Locale: en
+2019-03-28 17:52:46 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-28 17:52:46 Game [DEBUG] next move, active player:  Computer, color: WHITE, type: COMPUTER
+2019-03-28 17:52:46 Game [DEBUG] next move, active player: Player, color: BLACK, type: LOCAL_USER
+2019-03-28 17:53:01 Settings [DEBUG] Locale: en
+2019-03-28 17:53:01 Settings [DEBUG] Locale: en
+2019-03-28 17:53:01 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-28 18:00:35 Settings [DEBUG] Locale: en
+2019-03-28 18:00:35 Settings [DEBUG] Locale: en
+2019-03-28 20:32:11 Settings [DEBUG] Locale: en
+2019-03-28 20:32:11 Settings [DEBUG] Locale: en
+2019-03-28 20:32:11 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-28 21:06:29 Settings [DEBUG] Locale: en
+2019-03-28 21:06:29 Settings [DEBUG] Locale: en
+2019-03-28 21:06:29 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-28 21:20:04 Settings [DEBUG] Locale: en
+2019-03-28 21:20:04 Settings [DEBUG] Locale: en
+2019-03-28 21:20:04 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER

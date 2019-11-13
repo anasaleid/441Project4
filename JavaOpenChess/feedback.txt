@@ -1,0 +1,11 @@
+Hi Anas,
+Well done, congratulations, you earned 5%. I have a few concerns though.
+
+First, you need to add more material to your documentation, especially if you want to advertise this project to your prospective employers. Currently, it is not clear what the structure of your project and your design are. Also, you really have no tests based on the spring framework.
+
+Next, you commented your code, but there are some confusing elements. You have two directories called logs and it is not clear how you refactored the original chess app to integrate it into the service.
+
+Finally, add .gitignore to avoid dealing with all these IDE specific files.
+
+Thank you,
+Mark

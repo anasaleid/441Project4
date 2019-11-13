@@ -1,0 +1,205 @@
+2019-03-26 19:54:47 GUI [DEBUG] THEME: null
+2019-03-26 20:48:25 Settings [DEBUG] Locale: en
+2019-03-26 20:48:25 Settings [DEBUG] Locale: en
+2019-03-26 20:50:39 Settings [DEBUG] Locale: en
+2019-03-26 20:50:39 Settings [DEBUG] Locale: en
+2019-03-26 21:01:49 Settings [DEBUG] Locale: en
+2019-03-26 21:01:49 Settings [DEBUG] Locale: en
+2019-03-26 21:21:02 Settings [DEBUG] Locale: en
+2019-03-26 21:21:02 Settings [DEBUG] Locale: en
+2019-03-26 21:29:47 Settings [DEBUG] Locale: en
+2019-03-26 21:29:47 Settings [DEBUG] Locale: en
+2019-03-26 21:29:52 Settings [DEBUG] Locale: en
+2019-03-26 21:29:52 Settings [DEBUG] Locale: en
+2019-03-26 21:31:27 Settings [DEBUG] Locale: en
+2019-03-26 21:31:27 Settings [DEBUG] Locale: en
+2019-03-26 21:31:49 Settings [DEBUG] Locale: en
+2019-03-26 21:31:49 Settings [DEBUG] Locale: en
+2019-03-26 21:35:25 Settings [DEBUG] Locale: en
+2019-03-26 21:35:25 Settings [DEBUG] Locale: en
+2019-03-26 21:39:54 Settings [DEBUG] Locale: en
+2019-03-26 21:39:54 Settings [DEBUG] Locale: en
+2019-03-26 21:41:26 Settings [DEBUG] Locale: en
+2019-03-26 21:41:26 Settings [DEBUG] Locale: en
+2019-03-26 21:42:08 Settings [DEBUG] Locale: en
+2019-03-26 21:42:08 Settings [DEBUG] Locale: en
+2019-03-26 22:03:53 Settings [DEBUG] Locale: en
+2019-03-26 22:03:53 Settings [DEBUG] Locale: en
+2019-03-26 22:04:48 Settings [DEBUG] Locale: en
+2019-03-26 22:04:48 Settings [DEBUG] Locale: en
+2019-03-26 22:05:23 Settings [DEBUG] Locale: en
+2019-03-26 22:05:23 Settings [DEBUG] Locale: en
+2019-03-26 22:05:54 Settings [DEBUG] Locale: en
+2019-03-26 22:05:54 Settings [DEBUG] Locale: en
+2019-03-26 22:06:46 Settings [DEBUG] Locale: en
+2019-03-26 22:06:46 Settings [DEBUG] Locale: en
+2019-03-26 22:08:14 Settings [DEBUG] Locale: en
+2019-03-26 22:08:14 Settings [DEBUG] Locale: en
+2019-03-26 22:08:32 Settings [DEBUG] Locale: en
+2019-03-26 22:08:32 Settings [DEBUG] Locale: en
+2019-03-26 22:08:49 Settings [DEBUG] Locale: en
+2019-03-26 22:08:49 Settings [DEBUG] Locale: en
+2019-03-26 22:12:22 Settings [DEBUG] Locale: en
+2019-03-26 22:12:22 Settings [DEBUG] Locale: en
+2019-03-26 22:14:05 Settings [DEBUG] Locale: en
+2019-03-26 22:14:05 Settings [DEBUG] Locale: en
+2019-03-26 22:15:33 Settings [DEBUG] Locale: en
+2019-03-26 22:15:33 Settings [DEBUG] Locale: en
+2019-03-26 22:16:31 Settings [DEBUG] Locale: en
+2019-03-26 22:16:31 Settings [DEBUG] Locale: en
+2019-03-26 22:18:17 Settings [DEBUG] Locale: en
+2019-03-26 22:18:17 Settings [DEBUG] Locale: en
+2019-03-26 22:18:42 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 22:18:42 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:120)
+2019-03-26 22:19:09 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-26 22:19:09 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:120)
+2019-03-26 22:19:32 Chessboard [DEBUG] active_x: 2 active_y: 7
+2019-03-26 22:19:32 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:120)
+2019-03-26 22:19:37 Chessboard [DEBUG] active_x: 2 active_y: 2
+2019-03-26 22:19:37 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:120)
+2019-03-26 22:19:44 Chessboard [DEBUG] active_x: 2 active_y: 5
+2019-03-26 22:19:44 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:120)
+2019-03-26 23:41:00 Settings [DEBUG] Locale: en
+2019-03-26 23:41:00 Settings [DEBUG] Locale: en
+2019-03-26 23:44:48 Settings [DEBUG] Locale: en
+2019-03-26 23:44:48 Settings [DEBUG] Locale: en
+2019-03-26 23:45:33 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:45:33 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:46:23 Settings [DEBUG] Locale: en
+2019-03-26 23:46:23 Settings [DEBUG] Locale: en
+2019-03-26 23:46:28 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:46:28 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:46:40 Settings [DEBUG] Locale: en
+2019-03-26 23:46:40 Settings [DEBUG] Locale: en
+2019-03-26 23:46:51 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:47:37 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:48:00 Settings [DEBUG] Locale: en
+2019-03-26 23:48:00 Settings [DEBUG] Locale: en
+2019-03-26 23:48:05 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:48:19 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:48:35 Settings [DEBUG] Locale: en
+2019-03-26 23:48:35 Settings [DEBUG] Locale: en
+2019-03-26 23:48:39 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:48:42 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:49:17 Chessboard [DEBUG] active_x: 1 active_y: 2
+2019-03-26 23:49:24 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:50:51 Settings [DEBUG] Locale: en
+2019-03-26 23:50:51 Settings [DEBUG] Locale: en
+2019-03-26 23:50:54 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:51:10 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:51:15 Settings [DEBUG] Locale: en
+2019-03-26 23:51:15 Settings [DEBUG] Locale: en
+2019-03-26 23:51:17 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:51:36 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:51:49 Settings [DEBUG] Locale: en
+2019-03-26 23:51:49 Settings [DEBUG] Locale: en
+2019-03-26 23:51:54 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:52:51 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:52:56 Settings [DEBUG] Locale: en
+2019-03-26 23:52:56 Settings [DEBUG] Locale: en
+2019-03-26 23:53:00 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:53:19 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:53:21 Settings [DEBUG] Locale: en
+2019-03-26 23:53:21 Settings [DEBUG] Locale: en
+2019-03-26 23:53:23 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:54:30 Game [ERROR] NullPointerException: null
+java.lang.NullPointerException
+	at pl.art.lach.mateusz.javaopenchess.core.Game.switchActive(Game.java:179)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.nextMove(Game.java:201)
+	at pl.art.lach.mateusz.javaopenchess.core.Game.move(Game.java:319)
+	at pl.art.lach.mateusz.javaopenchess.JChessApp.main(JChessApp.java:125)
+2019-03-26 23:54:54 Settings [DEBUG] Locale: en
+2019-03-26 23:54:54 Settings [DEBUG] Locale: en
+2019-03-26 23:54:56 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:54:59 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-26 23:55:30 Settings [DEBUG] Locale: en
+2019-03-26 23:55:30 Settings [DEBUG] Locale: en
+2019-03-26 23:55:34 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:55:34 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-26 23:55:53 Settings [DEBUG] Locale: en
+2019-03-26 23:55:53 Settings [DEBUG] Locale: en
+2019-03-26 23:55:56 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:56:03 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-26 23:58:02 Settings [DEBUG] Locale: en
+2019-03-26 23:58:02 Settings [DEBUG] Locale: en
+2019-03-26 23:58:05 Chessboard [DEBUG] active_x: 1 active_y: 7
+2019-03-26 23:58:05 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-26 23:58:05 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
+2019-03-26 23:58:15 Chessboard [DEBUG] active_x: 3 active_y: 7
+2019-03-26 23:58:15 Game [DEBUG] next move, active player:  Computer, color: BLACK, type: COMPUTER
+2019-03-26 23:58:15 Game [DEBUG] next move, active player: Player, color: WHITE, type: LOCAL_USER
